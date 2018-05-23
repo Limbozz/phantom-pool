@@ -1,5 +1,5 @@
 {
-  "name": "phantom-pool",
+  "name": "@limbozz/phantom-pool",
   "version": "1.2.3",
   "description": "Resource pool for Node.js PhantomJS",
   "main": "./lib/index.js",
