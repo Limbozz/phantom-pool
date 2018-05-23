@@ -14,7 +14,7 @@
     "pretest": "npm run lint",
     "test:fast": "babel-tape-runner test/*.test.js",
     "test:watch": "nodemon --exec npm -- run --silent test:fast || true",
-    "release": "git push && npm test && npm run build && npm publish"
+    "release": "git push && npm test && npm run build && npm publish --registry https://npm.limbozz.com"
   },
   "repository": {
     "type": "git",
