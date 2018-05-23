@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/binded/phantom-pool.git"
+    "url": "git+https://github.com/Limbozz/phantom-pool.git"
   },
   "keywords": [
     "phantom",
@@ -32,7 +32,7 @@
   "bugs": {
     "url": "https://github.com/binded/phantom-pool/issues"
   },
-  "homepage": "https://github.com/binded/phantom-pool#readme",
+  "homepage": "https://github.com/Limbozz/phantom-pool#readme",
   "engines": {
     "node": ">=6"
   },
@@ -65,6 +65,6 @@
   "dependencies": {
     "debug": "^2.3.3",
     "generic-pool": "^3.1.4",
-    "phantom": "^3.2.0"
+    "phantom": "^4.0.12"
   }
 }
